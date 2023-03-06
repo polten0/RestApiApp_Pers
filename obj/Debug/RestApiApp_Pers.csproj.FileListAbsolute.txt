@@ -14,3 +14,4 @@ C:\Users\Alexey\source\repos\RestApiApps\RestApiApp_Pers\obj\Debug\RestApiApp_Pe
 C:\Users\Alexey\source\repos\RestApiApps\RestApiApp_Pers\obj\Debug\RestApiApp_Pers.csproj.CoreCompileInputs.cache
 C:\Users\Alexey\source\repos\RestApiApps\RestApiApp_Pers\obj\Debug\RestApiApp_Pers.exe
 C:\Users\Alexey\source\repos\RestApiApps\RestApiApp_Pers\obj\Debug\RestApiApp_Pers.pdb
+C:\Users\Alexey\source\repos\RestApiApps\RestApiApp_Pers\obj\Debug\RestApiApp_Pers.csproj.AssemblyReference.cache
